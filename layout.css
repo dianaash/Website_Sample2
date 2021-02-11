@@ -1,0 +1,10 @@
+section {
+  display: flex;
+}
+
+div {
+  width: 100%;
+  background-color: lightblue;
+  height: 100px;
+  margin: 0.5rem;
+}
